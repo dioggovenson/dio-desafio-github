@@ -1,2 +1,2 @@
-# dio-desafio-github
-Desafio de projeto sobre github
+# Repositório do desafio de projeto do GitHub da DIO
+
